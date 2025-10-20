@@ -2,9 +2,6 @@
 
 > Implementation of **Question 2** from HW4 — Detection of Fake vs. Real news articles — following  
 > *“Fake news detection: A hybrid CNN-RNN based deep learning approach”* (IJIM Data Insights, 2021).  
->  
-> Author: *Mohammad Parsa Bahmani*  
-> Date: *October 2025*
 
 ---
 
