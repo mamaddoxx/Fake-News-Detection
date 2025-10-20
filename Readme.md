@@ -1,6 +1,6 @@
-# 📰 Fake News Detection – HW4 Question 2 (FA-KES Dataset)
+# 📰 Fake News Detection – (FA-KES Dataset)
 
-> Implementation of **Question 2** from HW4 — Detection of Fake vs. Real news articles — following  
+> Detection of Fake vs. Real news articles — following  
 > *“Fake news detection: A hybrid CNN-RNN based deep learning approach”* (IJIM Data Insights, 2021).  
 
 ---
